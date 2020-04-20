@@ -20,7 +20,7 @@
 
     - Pages > system(Components) > basic(Components) 로 이어지는 3단 구조
 
-![Large example image](../images/atom_base.png "Large example image")
+![Large example image](./images/atom_base.png "Large example image")
 
 #### Atom
 
@@ -32,7 +32,7 @@
 
 #### molecules
 
-![Medium example image](../images/atom_components.png "Medium example image")
+![Medium example image](./images/atom_components.png "Medium example image")
 
 - 예를 들어, 폼의 텍스트 레이블 / 인풋 필드 혹은 버튼들과 같이 각 개별 요소들 자체만으로는 그다지 유용하지 않지만, 폼(form)으로 구성되어 결합하면 실제로 뭔가 할 수 있다.
 
@@ -46,7 +46,7 @@
 
 #### organism
 
-![Medium example image](../images/atom_post.png "Medium example image")
+![Medium example image](./images/atom_post.png "Medium example image")
 
 - 비교적 복잡하며, 인터페이스에서 구분된 영역을 형성하는 서로 결합되어 있는 분자 그룹이다.
 
@@ -69,7 +69,7 @@
 
 #### Page
 
-![Medium example image](../images/atom_post_list.png "Medium example image")
+![Medium example image](./images/atom_post_list.png "Medium example image")
 
 - 페이지는 템플릿의 특정 인스턴스다. 사용자가 보는 디자인을 정확하고 구체적으로 구현한다. 
 
